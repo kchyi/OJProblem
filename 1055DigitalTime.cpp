@@ -3,6 +3,7 @@
 using namespace std;
 //字符串里的数字不要直接用，是char类型，需要将其转化为int类型，
 //'0'=48; 
+//Add something strange 
 int find(string x)
 {
 	int i = 0;
